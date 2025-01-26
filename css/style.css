@@ -112,7 +112,7 @@
     }
 
 
-    #tittle {border: red solid 1px;
+    #tittle {
         color: rgb(255, 255, 255);
         position: absolute;
         font-family: var(--font-family-futura-pt);
@@ -120,7 +120,7 @@
         font-weight: 700;
         letter-spacing: 0.01em;
         text-transform: none;
-        font-size: 369%;
+        font-size: 361%;
         width: 100%;
         text-align: center;
 
