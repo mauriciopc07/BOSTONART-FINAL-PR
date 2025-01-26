@@ -753,7 +753,7 @@
         padding-left: 0px;
     }
 
-    .li1 {position: relative;
+    .li1 {
         width: 40px;
         height: 30px;
         flex-basis: 20%;
