@@ -729,7 +729,7 @@
 
     }
 
-    .footer-social-media-inside-box { border: blue solid 1px;
+    .footer-social-media-inside-box {
         width: 150px;
         height: 30px;
         background-image: url(../img/Screenshot\ 2025-01-22\ 175602.png);
@@ -742,7 +742,7 @@
         
     }
 
-    .footer-social-media-inside-box-ul { border: red solid 1px;
+    .footer-social-media-inside-box-ul { 
         width: 150px;
         height: 30px;
         display: flex;
@@ -756,7 +756,7 @@
         
     }
 
-    .li1 { border: red solid 1px;
+    .li1 { 
         width: 40px;
         height: 30px;
         flex-basis: 20%;
