@@ -729,7 +729,7 @@
 
     }
 
-    .footer-social-media-inside-box {
+    .footer-social-media-inside-box { border: blue solid 1px;
         width: 150px;
         height: 30px;
         background-image: url(../img/Screenshot\ 2025-01-22\ 175602.png);
@@ -738,7 +738,7 @@
         display: flex;
         flex-direction: row;
         justify-content: center;
-        align-items: center;
+        align-items:start;
         
     }
 
@@ -751,6 +751,9 @@
         list-style: none;
         padding-right: 10%;
         padding-left: 0px;
+        align-items: center;
+        margin: 0px;
+        
     }
 
     .li1 { border: red solid 1px;
